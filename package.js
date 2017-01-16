@@ -6,12 +6,13 @@ Package.describe({
   documentation: 'README.md'
 });
 
+Npm.depends({
+  'anychart': '7.12.0'
+});
+
 Package.onUse(function(api) {
   // api.versionsFrom('1.4.2.3');
   api.mainModule('anychart-meteor.js', 'client');
   api.export('anychart', 'client');
 });
 
-Npm.depends({
-  'anychart': '7.12.0'
-});
