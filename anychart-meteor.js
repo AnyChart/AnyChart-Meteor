@@ -1,4 +1,4 @@
-var anychart = Npm.require('anychart');
+var anychart = require('anychart');
 var global = this;
 
 // Provide values for the exported variables of the jquery package.
