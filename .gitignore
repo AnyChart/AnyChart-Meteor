@@ -5,3 +5,4 @@
 *.swo
 *.pyc
 .versions
+.npm

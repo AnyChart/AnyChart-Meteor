@@ -10,7 +10,7 @@ The package provides a simple way to pull in AnyChart component in Meteor.
 
 Just run the following command in console:
 ```
-meteor add anychart
+meteor add anychart:anychart
 ```
 
 Since that, `anychart` object becomes available in your project.
