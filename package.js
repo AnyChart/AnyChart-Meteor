@@ -7,7 +7,7 @@ Package.describe({
 });
 
 Npm.depends({
-  'anychart': '7.12.0'
+  'anychart': '7.13.0-dev.preview.0'
 });
 
 Package.onUse(function(api) {
