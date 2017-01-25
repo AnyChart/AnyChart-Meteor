@@ -1,6 +1,6 @@
 [<img src="https://cdn.anychart.com/images/logo-transparent-segoe.png?2" width="234px" alt="AnyChart - Robust JavaScript/HTML5 Chart library for any project">](http://www.anychart.com)
 
-AnyChart Meteor package.
+AnyChart Meteor Package
 =========
 
 The package provides a simple way to pull in AnyChart component in Meteor.
@@ -15,7 +15,7 @@ The package provides a simple way to pull in AnyChart component in Meteor.
 
 ## Quick start
 Following console commands allow to create a Meteor Application 
-with pulled in AnyChart component.
+with the AnyChart component pulled in.
 ```sh
 $ mrt create sample-app
 $ cd sample-app
@@ -24,12 +24,12 @@ $ meteor add anychart:anychart
 $ meteor
 ```
 
-Since command `meteor add anychart:anychart` is run,
+After `meteor add anychart:anychart` command is executed,
 `anychart` object becomes available in your project.
 
 ## Demo overview
 Here is a [Simple Integration Demo](https://github.com/anychart-integrations/meteor-simple-demo)
-with step-by-step guide of how to work with AnyChart component in Meteor.
+with the step-by-step guide of how to work with AnyChart component in Meteor.
  
 #### /data/DataSource.js
 Provides an imitation of real data to be used as data source for demo.
@@ -140,7 +140,7 @@ html, body, #container {
 * [Download AnyChart](http://www.anychart.com/download/)
 * [AnyChart Licensing](http://www.anychart.com/buy/)
 * [AnyChart Support](http://www.anychart.com/support/)
-* [Report Issues](http://github.com/AnyChart/anychart/issues)
+* [Report Issues](https://github.com/AnyChart/AnyChart-Ember/issues)
 * [AnyChart Playground](http://playground.anychart.com)
 * [AnyChart Documentation](http://docs.anychart.com)
 * [AnyChart API Reference](http://api.anychart.com)
