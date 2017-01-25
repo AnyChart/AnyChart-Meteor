@@ -140,7 +140,7 @@ html, body, #container {
 * [Download AnyChart](http://www.anychart.com/download/)
 * [AnyChart Licensing](http://www.anychart.com/buy/)
 * [AnyChart Support](http://www.anychart.com/support/)
-* [Report Issues](https://github.com/AnyChart/AnyChart-Ember/issues)
+* [Report Issues](https://github.com/AnyChart/AnyChart-Meteor/issues)
 * [AnyChart Playground](http://playground.anychart.com)
 * [AnyChart Documentation](http://docs.anychart.com)
 * [AnyChart API Reference](http://api.anychart.com)
