@@ -52,6 +52,9 @@ if(Meteor.isClient) {
 
 
 #### /client/main.js
+Gets data from DataSource and creates an AnyChart Pie chart using
+a global `anychart` object added to application with 
+`meteor add anychart:anychart` command.
 ```javascript
 import { DataSource } from '../data/DataSource';
 import { Template } from 'meteor/templating';
@@ -84,9 +87,6 @@ Template.acTemplate.rendered = function() {
   chart.container(container).draw();
 };
 ```
-Gets data from DataSource and creates an AnyChart Pie chart using
-a global `anychart` object added to application with 
-`meteor add anychart:anychart` command.
 
 
 #### /client/main.html
