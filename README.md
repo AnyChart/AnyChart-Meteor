@@ -17,7 +17,7 @@ The package provides a simple way to pull in AnyChart component in Meteor.
 Following console commands allow to create a Meteor Application 
 with pulled in AnyChart component.
 ```sh
-$ mrt create sample-app
+$ meteor create sample-app
 $ cd sample-app
 $ meteor npm install
 $ meteor add anychart:anychart
@@ -128,7 +128,7 @@ html, body, #container {
 
 ## Contacts
 
-* Web: [www.anychart.com](www.anychart.com)
+* Web: [www.anychart.com](http://www.anychart.com)
 * Email: [contact@anychart.com](mailto:contact@anychart.com)
 * Twitter: [anychart](https://twitter.com/anychart)
 * Facebook: [AnyCharts](https://www.facebook.com/AnyCharts)
