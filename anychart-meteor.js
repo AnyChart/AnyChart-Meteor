@@ -1,1 +1,1 @@
-anychart = require('anychart')(this);
+anychart = require('anychart');
