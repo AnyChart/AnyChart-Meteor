@@ -1,4 +1,4 @@
-[<img src="https://cdn.anychart.com/images/logo-transparent-segoe.png?2" width="234px" alt="AnyChart - Robust JavaScript/HTML5 Chart library for any project">](http://www.anychart.com)
+[<img src="https://cdn.anychart.com/images/logo-transparent-segoe.png?2" width="234px" alt="AnyChart - Robust JavaScript/HTML5 Chart library for any project">](https://www.anychart.com)
 
 AnyChart Meteor Package
 =========
@@ -128,7 +128,7 @@ html, body, #container {
 
 ## Contacts
 
-* Web: [www.anychart.com](http://www.anychart.com)
+* Web: [www.anychart.com](https://www.anychart.com)
 * Email: [contact@anychart.com](mailto:contact@anychart.com)
 * Twitter: [anychart](https://twitter.com/anychart)
 * Facebook: [AnyCharts](https://www.facebook.com/AnyCharts)
@@ -136,18 +136,18 @@ html, body, #container {
 
 ## Links
 
-* [AnyChart Website](http://www.anychart.com)
-* [Download AnyChart](http://www.anychart.com/download/)
-* [AnyChart Licensing](http://www.anychart.com/buy/)
-* [AnyChart Support](http://www.anychart.com/support/)
+* [AnyChart Website](https://www.anychart.com)
+* [Download AnyChart](https://www.anychart.com/download/)
+* [AnyChart Licensing](https://www.anychart.com/buy/)
+* [AnyChart Support](https://www.anychart.com/support/)
 * [Report Issues](https://github.com/AnyChart/AnyChart-Meteor/issues)
-* [AnyChart Playground](http://playground.anychart.com)
-* [AnyChart Documentation](http://docs.anychart.com)
-* [AnyChart API Reference](http://api.anychart.com)
-* [AnyChart Sample Solutions](http://www.anychart.com/solutions/)
-* [AnyChart Integrations](http://www.anychart.com/integrations/)
+* [AnyChart Playground](https://playground.anychart.com)
+* [AnyChart Documentation](https://docs.anychart.com)
+* [AnyChart API Reference](https://api.anychart.com)
+* [AnyChart Sample Solutions](https://www.anychart.com/solutions/)
+* [AnyChart Integrations](https://www.anychart.com/integrations/)
 
 ## License
 
 [© AnyChart.com - JavaScript charts](http://www.anychart.com). All rights reserved.
- 
+[![Analytics](https://ga-beacon.appspot.com/UA-228820-4/Meteor?pixel&useReferer)](https://github.com/igrigorik/ga-beacon)
