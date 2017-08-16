@@ -150,4 +150,4 @@ html, body, #container {
 ## License
 
 [© AnyChart.com - JavaScript charts](http://www.anychart.com). All rights reserved.
-[![Analytics](https://ga-beacon.appspot.com/UA-228820-4/Meteor?pixel&useReferer)](https://github.com/igrigorik/ga-beacon)
+[![Analytics](https://ga-beacon.appspot.com/UA-228820-4/Plugins/Meteor?pixel&useReferer)](https://github.com/igrigorik/ga-beacon)
