@@ -1,4 +1,4 @@
-[<img src="https://cdn.anychart.com/images/logo-transparent-segoe.png?2" width="234px" alt="AnyChart - Robust JavaScript/HTML5 Chart library for any project">](http://www.anychart.com)
+[<img src="https://cdn.anychart.com/images/logo-transparent-segoe.png?2" width="234px" alt="AnyChart - Robust JavaScript/HTML5 Chart library for any project">](https://www.anychart.com)
 
 AnyChart Meteor Package
 =========
@@ -155,5 +155,4 @@ AnyChart Meteor integration sample includes two parts:
 
 If you have any questions regarding licensing - please contact us. <sales@anychart.com>
 
-[![Analytics](https://ga-beacon.appspot.com/UA-228820-4/Plugins/AnyChart-Meteor?pixel&useReferer)](https://github.com/igrigorik/ga-beacon)
- 
+[![Analytics](https://ga-beacon.appspot.com/UA-228820-4/Plugins/Meteor?pixel&useReferer)](https://github.com/igrigorik/ga-beacon)
