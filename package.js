@@ -1,7 +1,7 @@
 Package.describe({
   name: 'anychart:anychart',
   summary: 'The package provides a simple way to pull in AnyChart component in Meteor',
-  version: '1.4.0',
+  version: '1.4.1',
   git: 'https://github.com/AnyChart/AnyChart-Meteor',
   documentation: 'README.md'
 });
